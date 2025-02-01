@@ -30,6 +30,8 @@ Evaluation Metrics:
 Measures training and testing accuracy.
 Provides insights into model performance.
 
+Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Highlights
 Focus on addressing class imbalance through under-sampling.
 Uses train_test_split with stratification to maintain class distribution.
