@@ -12,13 +12,13 @@
 
 *MENTOR*: NEELA SANTOSH
 
-#Credit Card Fraud Detection Project
+Credit Card Fraud Detection Project
 
-##Description
+Description
 
 This project focuses on detecting fraudulent credit card transactions using machine learning. It leverages a logistic regression model to classify transactions as either legitimate or fraudulent based on their features. The dataset is highly imbalanced, so under-sampling is applied to balance the data and improve model performance.
 
-##Features
+Features
 Data Preprocessing:
 Handles missing values and performs exploratory data analysis (EDA).
 Separates data into legitimate and fraudulent transactions for detailed analysis.
@@ -30,7 +30,7 @@ Evaluation Metrics:
 Measures training and testing accuracy.
 Provides insights into model performance.
 
-##Highlights
+Highlights
 Focus on addressing class imbalance through under-sampling.
 Uses train_test_split with stratification to maintain class distribution.
 Ensures data preparation for effective machine learning.
